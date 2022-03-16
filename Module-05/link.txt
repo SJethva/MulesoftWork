@@ -1,0 +1,12 @@
+http://training4-american-sj.us-e2.cloudhub.io/flights
+Client ID:
+29bafa849acb4c088f683484d754949e
+Client Secret:
+2Ee28e02e95D489C84D6D91706Cd6090
+
+
+http://training4-american-sj-proxy.us-e2.cloudhub.io/flights
+client_id:
+979e9797c7074a9e9652ed600928db05
+client_secret:
+39f5A071676c47f6805c6eC53366CF05
